@@ -39,3 +39,17 @@ header h2 {
   right: 0;
   bottom: 0;
   z-index: 100; }
+
+#reserveButton {
+  cursor: pointer; }
+
+#loginButton {
+  cursor: pointer; }
+
+#reserveModal .modal-header {
+  color: #ffffff;
+  background: #17A2B8; }
+
+#loginModal .modal-header {
+  color: #ffffff;
+  background: #901CAD; }
